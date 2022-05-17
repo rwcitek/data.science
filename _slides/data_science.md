@@ -1,7 +1,11 @@
 ---
-title: Data Science - Introduction
-description: A Case Study
+title: Data Science
+description:  An Introduction
 theme: black
+---
+
+# Case Study
+
 ---
 
 ## Project
