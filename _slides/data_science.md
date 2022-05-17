@@ -10,11 +10,11 @@ theme: black
 
 ## Project
 
-Collect ~10,000 pathology images for ML
+Collect ~10,000 pathology images for machine learning
 
 <span class="fragment">Major hurdle: proprietary format</span>
 
-<img src="https://cancer.osu.edu/-/media/images/cancer/website/pages-and-carousels/about/publications/frontiers/2018/winter/hand-holding-glass-slide.jpg" alt="slide" width="200"/>
+<img src="https://cancer.osu.edu/-/media/images/cancer/website/pages-and-carousels/about/publications/frontiers/2018/winter/hand-holding-glass-slide.jpg" alt="slide" width="400"/>
 
 ----
 
