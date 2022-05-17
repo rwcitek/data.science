@@ -32,7 +32,9 @@ Collect ~10,000 pathology images for ML
 
 ----
 
-## 7 mo >> 2 weeks
+# 7 mo >> 2 weeks
+
+![Stub](../../public/apple-touch-icon-precomposed.png)
 
 ----
 
@@ -129,8 +131,13 @@ P<span class="fragment">resent</span>
 
 ----
 ## Further Reading
-- 
-- https://cloud.google.com/container-registry
+- [Docker](https://github.com/rwcitek/docker/blob/master/A_Gentle_Introduction_To_Docker/Docker-walkthrough.md)
+- [Python](https://github.com/rwcitek/PythonResources)
+- [GCR](https://cloud.google.com/container-registry)
+- [GS](https://cloud.google.com/storage)
+- [dsub](https://github.com/DataBiosphere/dsub)
+- [git](https://github.com/rwcitek/git.sample/tree/master/git.deep.dive)
+- [GitHub](https://rwcitek.github.io/gh-slides/slides/github-demo/#/)
 
 ----
 ##
