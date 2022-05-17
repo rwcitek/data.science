@@ -100,15 +100,15 @@ Collect ~10,000 pathology images for ML
 ----
 
 ## Take home messages
-- assume your data is garbage
-- be familiar with data technologies
+1. assume your data is garbage
+1. be familiar with data technologies
   - Python + modules
   - Docker
   - dsub
   - cloud services
-- talk with your customers
+1. talk with your customers
   - early and often
-- glimps into what a Data Science is
+1. glimps into Data Science
 
 ----
 
@@ -119,7 +119,7 @@ Collect ~10,000 pathology images for ML
 
 ----
 
-## Data Science in Five Steps ( CSWAP )
+## Data Science in Five Steps</BR> ( CSWAP )
 - collect
 - store
 - wrangle
