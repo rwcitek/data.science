@@ -34,6 +34,13 @@ Collect ~10,000 pathology images for machine learning
 ## 10,000 Images: Quick calcs
 - ~100 MB/image
   - ~1 TB total
+
+----
+
+## 10,000 Images: Quick calcs
+- ~100 MB/image
+  - ~1 TB total<br />
+
 - ~30 min/image
   - ~300,000 min
   - ~5,000 hrs
