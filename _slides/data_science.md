@@ -100,7 +100,7 @@ Use "the cloud"
 ----
 ## Connecting the Dots
 
-<img src="../../public/dsub.workflow.png" alt="slide" width="400"/>
+<img src="../../public/dsub.workflow.push-to-gs.png" alt="slide" width="600"/>
 
 
 ----
