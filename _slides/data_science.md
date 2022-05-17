@@ -102,6 +102,9 @@ Use "the cloud"
 
 <img src="../../public/dsub.workflow.push-to-gs.png" alt="slide" width="600"/>
 
+~~~
+
+<img src="../../public/dsub.workflow.python-in-docker-to-GCR.png" alt="slide" width="600"/>
 
 ----
 
