@@ -6,6 +6,10 @@ theme: black
 
 # Case Study
 
+<img src="
+          " alt="slide" width="400"/>
+
+
 ---
 
 ## Project
@@ -31,8 +35,8 @@ Collect ~10,000 pathology images for machine learning
 - ~100 MB/image
   - ~1 TB total
 - ~30 min/image
-  - ~300k min
-  - ~5k hrs
+  - ~300,000 min
+  - ~5,000 hrs
   - ~200 days
   - ~7 mo
 
@@ -41,6 +45,9 @@ Collect ~10,000 pathology images for machine learning
 # 7 mo >> 2 weeks
 
 ![Stub](../../public/apple-touch-icon-precomposed.png)
+
+<img src="https://png.pngtree.com/png-vector/20210402/ourlarge/pngtree-heart-shaped-anniversary-black-and-white-calendar-icon-date-plan-png-image_3189633.jpg" alt="slide" width="400"/>
+
 
 ----
 
