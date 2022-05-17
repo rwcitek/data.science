@@ -122,7 +122,6 @@ Collect ~10,000 pathology images for ML
 ----
 
 ## Data Science in Five Steps
-## ( CSWAP )
 - **C**<span class="fragment">ollect</span>
 - **S**<span class="fragment">tore</span>
 - **W**<span class="fragment">rangle</span>
