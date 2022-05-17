@@ -121,13 +121,25 @@ Collect ~10,000 pathology images for ML
 
 ## Data Science in Five Steps
 ## ( CSWAP )
-- collect
+<span class="fragment">- collect</span>
 - store
 - wrangle
 - analyze
 - present
 
 ----
+## Further Reading
+- 
+- https://cloud.google.com/container-registry
+
+----
+
+----
+
+----
+
+----
+
 
 ## Questions:
 - Why 4,000 VMs instead of 10,000 VMs?
