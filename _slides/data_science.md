@@ -52,14 +52,26 @@ Collect ~10,000 pathology images for machine learning
 ----
 
 ## Strategies
-- Fess up: it will take 7 months
-- Get a much bigger computer(s) ( >$10k )
-- Use "the cloud"
+- <span class="fragment">
+Fess up: it will take 7 months
+</span>
+
+- <span class="fragment">
+Get a much bigger computer(s) ( >$10k )
+</span>
+
+- <span class="fragment">
+Use "the cloud"
+</span>
+
 
 ----
 
 ## Used the cloud
 - Google Compute Platform
+
+<img src="https://www.gstatic.com/devrel-devsite/prod/v6cd15f45ec209c8961e07ea7e57ed9a0e9da4333bc915e67d1fcd2b2a9ec62d1/cloud/images/social-icon-google-cloud-1200-630.png" alt="slide" width="400"/>
+
 
 ----
 
