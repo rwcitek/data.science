@@ -121,11 +121,11 @@ Collect ~10,000 pathology images for ML
 
 ## Data Science in Five Steps
 ## ( CSWAP )
-<span class="fragment">- collect</span>
-- store
-- wrangle
-- analyze
-- present
+**C**<span class="fragment">ollect</span>
+S<span class="fragment">tore</span>
+W<span class="fragment">rangle</span>
+A<span class="fragment">nalyze</span>
+P<span class="fragment">resent</span>
 
 ----
 ## Further Reading
@@ -133,12 +133,14 @@ Collect ~10,000 pathology images for ML
 - https://cloud.google.com/container-registry
 
 ----
+##
 
 ----
+##
 
 ----
+##
 
-----
 
 
 ## Questions:
@@ -146,9 +148,10 @@ Collect ~10,000 pathology images for ML
 - Why ~3 hours and not 1.5 hours?
 - Were all 10,000 images successfully converted?
 
+----
 
 
-
+----
 
 
 
