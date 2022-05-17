@@ -6,8 +6,10 @@ theme: black
 
 ## Project
 
-- Collect ~10,000 pathology images for ML
-- major hurdle: proprietary format
+Collect ~10,000 pathology images for ML
+<span class="fragment">
+  Major hurdle: proprietary format
+</span>
 
 ----
 
