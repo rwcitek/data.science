@@ -111,6 +111,11 @@ Pushed Docker to GCR
 
 <img src="../../public/dsub.workflow.python-in-docker-to-GCR.png" alt="slide" width="600"/>
 
+~~
+## Connecting the Dots
+
+<img src="../../public/dsub.workflow.combo.png" alt="slide" width="600"/>
+
 ----
 
 ## dsub Workflow
@@ -181,15 +186,15 @@ Pushed Docker to GCR
 - [GitHub](https://rwcitek.github.io/gh-slides/slides/github-demo/#/)
 
 ----
-##
+## Questions?
 
 ----
-##
-
+## 
+ 
 ----
-##
+## 
 
-
+---
 
 ## Questions:
 - Why 4,000 VMs instead of 10,000 VMs?
