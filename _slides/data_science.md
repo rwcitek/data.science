@@ -6,9 +6,6 @@ theme: black
 
 # Case Study
 
-<img src="
-          " alt="slide" width="400"/>
-
 
 ---
 
@@ -51,17 +48,14 @@ Collect ~10,000 pathology images for machine learning
 
 # 7 mo >> 2 weeks
 
-![Stub](../../public/apple-touch-icon-precomposed.png)
 
-<img src="https://png.pngtree.com/png-vector/20210402/ourlarge/pngtree-heart-shaped-anniversary-black-and-white-calendar-icon-date-plan-png-image_3189633.jpg" alt="slide" width="400"/>
+<img src="https://png.pngtree.com/png-vector/20210402/ourlarge/pngtree-heart-shaped-anniversary-black-and-white-calendar-icon-date-plan-png-image_3189633.jpg" alt="calendar" width="400"/>
 
 
 ----
 
 ## Strategies
-- <span class="fragment">
-Fess up: it will take 7 months
-</span>
+- Fess up: it will take 7 months
 
 - <span class="fragment">
 Get a much bigger computer(s) ( >$10k )
@@ -75,9 +69,9 @@ Use "the cloud"
 ----
 
 ## Used the cloud
-- Google Compute Platform
+- Google Cloud Platform
 
-<img src="https://www.gstatic.com/devrel-devsite/prod/v6cd15f45ec209c8961e07ea7e57ed9a0e9da4333bc915e67d1fcd2b2a9ec62d1/cloud/images/social-icon-google-cloud-1200-630.png" alt="slide" width="400"/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/v6cd15f45ec209c8961e07ea7e57ed9a0e9da4333bc915e67d1fcd2b2a9ec62d1/cloud/images/social-icon-google-cloud-1200-630.png" alt="GCP" width="400"/>
 
 
 ----
@@ -103,6 +97,10 @@ Use "the cloud"
   - 1 VM : 1 Docker : 1 image
 - Launched dsub
 
+
+
+
+
 ----
 
 ## dsub Workflow
@@ -112,7 +110,7 @@ Use "the cloud"
 - launch Docker to convert image
 - push converted image + metadata to GS
 - destroy VM
-- repeat for each image
+- repeat for each image <span class="fragment">... in parallel</span>
 
 ----
 
@@ -204,5 +202,16 @@ To the pessimist, the glass is half empty.
 To the engineer, the glass is twice as big as it needs to be.
 To Excel, the glass is January 2nd.
 
+
+----
+## Stubs
+
+<img src="
+" alt="slide" width="400"/>
+
+- <span class="fragment">
+</span>
+
+![Stub](../../public/apple-touch-icon-precomposed.png)
 
 
