@@ -1,13 +1,14 @@
+---
+title: Data Science: Introduction
+description: A Case Study
+theme: black
+---
 
-
-
-
-Case study
-
-Project:
+## Project
 - Collect ~10,000 pathology images for ML
 - major hurdle: proprietary format
 
+----
 
 Project details:
 - ~10,000 pathology images
