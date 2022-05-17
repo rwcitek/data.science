@@ -14,7 +14,7 @@ Collect ~10,000 pathology images for ML
 
 <span class="fragment">Major hurdle: proprietary format</span>
 
-![slide](https://cancer.osu.edu/-/media/images/cancer/website/pages-and-carousels/about/publications/frontiers/2018/winter/hand-holding-glass-slide.jpg)
+<img src="https://cancer.osu.edu/-/media/images/cancer/website/pages-and-carousels/about/publications/frontiers/2018/winter/hand-holding-glass-slide.jpg" alt="slide" width="200"/>
 
 ----
 
