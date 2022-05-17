@@ -114,7 +114,7 @@ Pushed Docker to GCR
 ~~
 ## Connecting the Dots
 
-<img src="../../public/dsub.workflow.combo.png" alt="slide" width="600"/>
+<img src="../../public/dsub.workflow.combo.png" alt="slide" width="400"/>
 
 ----
 
