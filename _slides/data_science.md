@@ -10,6 +10,8 @@ Collect ~10,000 pathology images for ML
 
 <span class="fragment">Major hurdle: proprietary format</span>
 
+![slide]([../../public/apple-touch-icon-precomposed.png](https://cancer.osu.edu/-/media/images/cancer/website/pages-and-carousels/about/publications/frontiers/2018/winter/hand-holding-glass-slide.jpg))
+
 ----
 
 ## Project details
