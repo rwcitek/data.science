@@ -97,8 +97,10 @@ Use "the cloud"
   - 1 VM : 1 Docker : 1 image
 - Launched dsub
 
+----
+## Connecting the Dots
 
-
+<img src="../../public/dsub.workflow.push-to-gs.png" alt="slide" width="600"/>
 
 
 ----
@@ -111,6 +113,8 @@ Use "the cloud"
 - push converted image + metadata to GS
 - destroy VM
 - repeat for each image <span class="fragment">... in parallel</span>
+
+
 
 ----
 
