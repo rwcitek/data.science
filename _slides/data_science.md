@@ -99,20 +99,6 @@ Use "the cloud"
 
 ----
 ## Connecting the Dots
-Pushed images to GS
-
-<img src="../../public/dsub.workflow.push-to-gs.png" alt="slide" width="600"/>
-
-~~
-## Connecting the Dots
-Wrapped Python script in Docker
-
-Pushed Docker to GCR
-
-<img src="../../public/dsub.workflow.python-in-docker-to-GCR.png" alt="slide" width="600"/>
-
-~~
-## Connecting the Dots
 
 <img src="../../public/dsub.workflow.combo.png" alt="slide" width="400"/>
 
@@ -128,7 +114,6 @@ Pushed Docker to GCR
 - repeat for each image <span class="fragment">... in parallel</span>
 
 
-
 ----
 
 ## Metrics
@@ -141,23 +126,23 @@ Pushed Docker to GCR
 
 ## Big savings
 - 3 hrs << 2 weeks
-- 3 hours vs 5k hours => 0.06% time
-- $300 vs $10k => 3% of cost
+- 3 hours vs 5,000 hours => 0.06% time
+- $300 vs $10,000 => 3% of cost
 - In dollar-hours:
-  - $900-hours vs $50e6-hours => 0.0018%
+  - 900 $-hours vs 50e6 $-hours => 0.0018%
 
 ----
 
 ## Take home messages
-1. assume your data is garbage
-1. be familiar with data technologies
+1. Assume your data is garbage
+1. Be familiar with data technologies
   - Python + modules
   - Docker
   - dsub
   - cloud services
-1. talk with your customers
+1. Talk with your customers
   - early and often
-1. glimps into Data Science
+1. Glimps into Data Science
 
 ----
 
