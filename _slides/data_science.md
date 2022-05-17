@@ -99,9 +99,17 @@ Use "the cloud"
 
 ----
 ## Connecting the Dots
+Pushed images to GS
 
 <img src="../../public/dsub.workflow.push-to-gs.png" alt="slide" width="600"/>
 
+~~
+## Connecting the Dots
+Wrapped Python script in Docker
+
+Pushed Docker to GCR
+
+<img src="../../public/dsub.workflow.python-in-docker-to-GCR.png" alt="slide" width="600"/>
 
 ----
 
