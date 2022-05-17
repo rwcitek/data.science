@@ -90,7 +90,7 @@ Use "the cloud"
 - Wrapped Python script in Docker
 - Pushed Docker to GCR
 - Created dsub template
-  - VM details
+  - VM details ( CPUs, RAM, local storage, preemptible )
   - Process ( Docker container + Python sript )
   - Input ( proprietary image )
   - Output ( converted image + metadata )
