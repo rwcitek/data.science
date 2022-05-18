@@ -117,7 +117,7 @@ Use "the cloud"
 ----
 
 ## Metrics
-- 4,000 VMs in parallel
+- maximum of 4,000 VMs running in parallel
 - ~30 min/image
 - total time: ~3 hours
 - total cost: ~$300
@@ -125,7 +125,7 @@ Use "the cloud"
 ----
 
 ## Big savings
-- 3 hrs << 2 weeks
+- 3 hours << 2 weeks << 7 months
 - 3 hours vs 5,000 hours => 0.06% time
 - $300 vs $10,000 => 3% of cost
 - In dollar-hours:
