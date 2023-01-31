@@ -42,11 +42,12 @@ Collect ~10,000 pathology images for machine learning
   - ~300,000 min
   - ~5,000 hrs
   - ~200 days
-  - ~7 mo
+  - ~30 weeks
+  - ~7.5 mo
 
 ----
 
-# 7 mo >> 2 weeks
+# 7.5 mo ~ 30 weeks >> 2 weeks
 
 
 <img src="https://png.pngtree.com/png-vector/20210402/ourlarge/pngtree-heart-shaped-anniversary-black-and-white-calendar-icon-date-plan-png-image_3189633.jpg" alt="calendar" width="400"/>
@@ -55,7 +56,7 @@ Collect ~10,000 pathology images for machine learning
 ----
 
 ## Strategies
-- Fess up: it will take 7 months
+- Fess up: it will take 7.5) months
 
 - <span class="fragment">
 Get a much bigger computer(s) ( >$10k )
